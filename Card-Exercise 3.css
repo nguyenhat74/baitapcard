@@ -1,0 +1,16 @@
+.card{
+	position: relative;
+	height: 500px !important;
+}
+.user-name{
+	width: 100px;
+    height: 100px;
+    /* position: absolute;
+    top: -9rem;
+    left: 7.7rem; */
+    margin-top: -3rem;
+    border: 3px solid #fff !important;
+}
+/* .main-content{
+	margin-top: 2rem !important;
+} */

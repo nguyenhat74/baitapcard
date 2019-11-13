@@ -1,0 +1,41 @@
+.intro{
+	position: relative;
+}
+.intro-header{
+	 width: 100px;
+    height: 100px;
+    background: blue !important;
+    position: absolute;
+    top: 2rem;
+    left: 1rem;
+    border: 1px solid #fff;
+}
+.text-white{
+	line-height: 6rem !important;
+}
+@media screen and (max-width: 768px ) {
+	.intro-header{
+		width: 100px;
+		height: 100px;
+
+	}
+}
+@media screen and (max-width: 576px ) {
+	.intro-header{
+		width: 100px;
+		height: 100px;
+
+	}
+}
+.main-right{
+	position: absolute;
+    top: 2rem;
+    right: 1rem;
+}
+.progress{
+	height: 0.4rem !important;
+	border-radius: 0rem !important;
+}
+.new-price{
+	padding: 0 1.25rem !important;
+}
